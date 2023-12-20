@@ -1,1 +1,5 @@
-
+👋 Hi, I’m @lukasivanic
+👀 I’m interested in coding
+🌱 I’m currently learning ReactJS and NextJS
+💞️ I’m looking to collaborate on ...
+📫 How to reach me ...
